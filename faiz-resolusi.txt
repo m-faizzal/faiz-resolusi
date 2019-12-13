@@ -2,6 +2,6 @@ FAIZ RESOLUSI
 -Belajar frontend
 -Belajar backend
 -Membuat website portofolio
--Membuat website vegeto
 -Menguasai fullstack wev developer
+-Membuat tutorial frontend
  
