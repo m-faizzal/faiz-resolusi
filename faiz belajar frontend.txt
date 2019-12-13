@@ -3,3 +3,5 @@ RENCANA BELAJAR FRONTEND
 -HTML
 -CSS
 -Javascript
+  *ES6
+  *framework javascript
