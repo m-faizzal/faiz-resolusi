@@ -6,3 +6,5 @@ RENCANA BELAJAR FRONTEND
 -Javascript
   *ES6
   *framework javascript
+   ^ Vue
+   ^ React
