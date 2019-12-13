@@ -8,3 +8,4 @@ RENCANA BELAJAR FRONTEND
   *framework javascript
    ^ Vue
    ^ React
+   ^ Angular
