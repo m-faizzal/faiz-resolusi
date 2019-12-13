@@ -2,7 +2,8 @@ RENCANA BELAJAR FRONTEND
 
 -HTML
 -CSS
--Struktur data dasar
 -Javascript
   *ES6
   *framework javascript
+   ^ Ember
+   ^ Meteor
